@@ -9,8 +9,6 @@ Models to be used in future:
 - DEEPLABV3+
 - more...
 
-# Dataset
-Download the dataset: [Brain Tumor Segmentation](https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation)
 
 
 Original Image             |  Ground Truth          
